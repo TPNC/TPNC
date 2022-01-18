@@ -18,5 +18,5 @@
       Well, each solstice the price of a poor goes up by 20%, but<br>
       for the first drop the price was at 4.63MATIC. <br>
       <br>
-      If you want to see the floor price of a poor, you can go <a href="/prices/">HERE</a>.
+      If you want to see the floor price of a poor, you can go <a href="https://thepoornft.club/prices/">HERE</a>.
     </p>
